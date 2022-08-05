@@ -2,7 +2,7 @@
 
 Desafio de desenvolvimento Angular do bootcamp Santander Fullstack.
 
-![](C:\Users\Nirlley\Desktop\Home.PNG)
+![Home](https://user-images.githubusercontent.com/29152631/183051901-18b8168f-0d62-4df6-8cbb-0841e1537cae.PNG)
 
 ### Como rodar a aplicação
 Importe o projeto na IDE da sua preferência (eu uso IntelliJ IDEA Ultimate) e aguarde a instalação das dependências (o projeto usa o Maven para gerenciar as dependências). Após a conclusão da importação, inicie a aplicação.
